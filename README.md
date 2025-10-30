@@ -47,7 +47,7 @@ Watch the app in action here:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/UnitConverterApp.git
+git clone (https://github.com/woobly-bop/Unit_Converter.git)
 ```
 2. Open the project in **Android Studio**
 3. Let Gradle sync automatically
